@@ -1,2 +1,0 @@
-# Mehakpreet-kaur
-dhbhgkm
