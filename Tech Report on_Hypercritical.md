@@ -1,4 +1,4 @@
-# Vedio and other information on Hyperspace.
+# Video and other information on Hyperspace.
 ## Tech Report for module 4
 ### Hyperspace
 Hyperspace finds files with identical contents and then reclaims the disk space taken by all but one of the identical files.
